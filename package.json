@@ -1,0 +1,15 @@
+{
+  "name": "kfk-token-example",
+  "version": "1.0.0",
+  "description": "oauthbearer authentication example using Red Hat OpenShift Streams for Apache Kafka and KafkaJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \".\" && exit 0"
+  },
+  "author": "Helio Frota",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "kafkajs": "^1.15.0"
+  }
+}
